@@ -2,6 +2,3 @@
 Schedule Play YouTube videos using simple Python code for laymen.
 
 
-
-
-
